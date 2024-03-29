@@ -12,3 +12,15 @@ mapping, animation and interactions;
 • Effective use of relevant OpenGL libraries in **freeglut** (no other OpenGL libraries to be used);
 
 • Good programming practice (e.g., necessary comments and neat format of the code) – appropriately acknowledge sources used in your assignment work.
+
+Introduction
+=====
+
+<img src="1.png" alt="Your Image" width="500" height="400">
+
+<img src="2.png" alt="Your Image" width="300" height="500">
+
+<img src="1.png" alt="Your Image" width="500" height="400">
+
+<img src="1.png" alt="Your Image" width="500" height="400">
+The whole explanation and interactions of keyboard and mouse can be seen in the [report](https://github.com/CynthiaChen03/Computer-Graphics/blob/main/CPT205_written_report.pdf).
