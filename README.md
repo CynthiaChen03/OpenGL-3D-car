@@ -16,7 +16,7 @@ mapping, animation and interactions;
 Introduction
 =====
 
-<img src="1.png" alt="Your Image" width="500" height="400">
+<img src="rendering_figures/1.png" alt="Your Image" width="500" height="400">
 
 <img src="2.png" alt="Your Image" width="300" height="500">
 
