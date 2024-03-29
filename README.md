@@ -16,11 +16,11 @@ mapping, animation and interactions;
 Introduction
 =====
 
-<img src="rendering_figures/1.png" alt="Your Image" width="500" height="400">
+<img src="rendering_figures/1.png" alt="Your Image" width="600" height="300">
 
-<img src="2.png" alt="Your Image" width="300" height="500">
+<img src="rendering_figures/2.png" alt="Your Image" width="300" height="500">
 
-<img src="1.png" alt="Your Image" width="500" height="400">
+<img src="rendering_figures/3.png" alt="Your Image" width="500" height="400">
 
-<img src="1.png" alt="Your Image" width="500" height="400">
+<img src="rendering_figures/4.png" alt="Your Image" width="500" height="400">
 The whole explanation and interactions of keyboard and mouse can be seen in the [report](https://github.com/CynthiaChen03/Computer-Graphics/blob/main/CPT205_written_report.pdf).
