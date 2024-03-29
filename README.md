@@ -23,4 +23,4 @@ Introduction
 <img src="rendering_figures/3.png" alt="Your Image" width="500" height="200">
 
 <img src="rendering_figures/4.png" alt="Your Image" width="500" height="200">
-The whole explanation and interactions of keyboard and mouse can be seen in the [report](https://github.com/CynthiaChen03/OpenGL-3D-car/blob/main/CPT205_written_report.pdf).
+The whole explanation and interactions of keyboard and mouse can be seen in the [report] (https://github.com/CynthiaChen03/OpenGL-3D-car/blob/main/CPT205_written_report.pdf).
